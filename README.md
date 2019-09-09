@@ -9,8 +9,8 @@
  - 洪丹阳/男/1991 
  - 本科/内蒙古农业大学/网络工程专业 
  - 工作年限：4年
- - 技术博客：http://
- - Github：http://github.com/hongdanyang1991
+ - 技术博客：https://hongdanyang1991.github.io/blogs/
+ - Github：https://github.com/hongdanyang1991/
 
  - 期望职位：Java高级程序员
  - 期望薪资：税前月薪15k~20k
